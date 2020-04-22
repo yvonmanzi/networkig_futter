@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:networking1/fetching_from_flickr.dart';
 
-import 'fetching_data.dart';
+//import 'fetching_data.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(PhotoList());
